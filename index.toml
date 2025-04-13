@@ -166,6 +166,11 @@ hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "bc4c7d42fd94d57b020a43dbb3aa3caaa8395c77bd872f252a8302a39b2256a9"
 metafile = true
